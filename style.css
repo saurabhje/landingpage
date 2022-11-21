@@ -146,6 +146,7 @@ border: solid 2px white;
 padding: 5px;
 font-size: smaller;
 text-align: center;
+    box-shadow: 0 0 8px 1px rgba(252, 250, 250, 0.4);
 }
 .button{
  border: none;
@@ -158,4 +159,5 @@ background-color: #3882f6;
     width: 60px;
     height: 10px;
     font-size: smaller;
+    box-shadow: 0 0 8px 1px rgba(244, 240, 240, 0.4);
 }
